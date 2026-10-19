@@ -2,16 +2,16 @@
 Meu Repositório Pessoal.
 
 
-# Olá! 👋 Eu sou [Seu nome]
+# Olá! 👋 Eu sou Lucas Teodósio da Fonseca
 
-💻 Estudante de programação e desenvolvimento Front-End.
+💻 Estudante de Engenharia de Software na Unicid.
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente estou aprendendo desenvolvimento web.
-- 💡 Tenho interesse em criar sites e aplicações.
+- 🌱 Atualmente, tenho interesse em programação e desenvolvimento web, especificamente em Front-end.
+- 💡 Tenho interesse em criar sites interativos e aplicações.
 - 🎯 Meu objetivo é evoluir minhas habilidades e desenvolver projetos práticos.
-- 📚 Estou sempre buscando aprender novas tecnologias.
+- 📚 Estou sempre buscando aprender novas tecnologias, como JavaScript e Angular.
 
 ## 🛠️ Tecnologias
 
