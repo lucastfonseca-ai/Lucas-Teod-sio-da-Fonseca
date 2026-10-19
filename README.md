@@ -26,7 +26,7 @@ Confira meus repositórios para conhecer os projetos que estou desenvolvendo!
 
 ## 📫 Contato
 
-- LinkedIn: [Meu LinkedIn]()
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/lucas-teodósio-da-fonseca-2483bb3a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
