@@ -17,8 +17,9 @@ Meu Repositório Pessoal.
 
 - HTML5
 - CSS3
-- JavaScript
-- Git e GitHub
+- Python
+- Angular
+- Github
 
 ## 📂 Meus projetos
 
